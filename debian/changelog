@@ -1,3 +1,9 @@
+openvswitch (1.6.90-1.ubuntu) precise; urgency=low
+  * New upstream version
+    - rebasing for PPA, this version has /etc/network/interface supports, testing before porting to upstart.
+
+ -- Greg Dahlman <gdahlman@hotmail.com>  Sat, 5 Feb 2012 22:32:52 +0000
+
 openvswitch (1.6.90-1) unstable; urgency=low
   [ Open vSwitch team ]
   * New upstream version
